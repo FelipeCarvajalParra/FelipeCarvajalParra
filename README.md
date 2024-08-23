@@ -5,7 +5,7 @@
 </h3>
 
 <!-- GIF HEADER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif" style="whidt: 100%;">
+<img src="https://github.com/FelipeCarvajalParra/FelipeCarvajalParra/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo.png?raw=true" style="whidt: 100%;">
 
 
   
