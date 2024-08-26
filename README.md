@@ -11,7 +11,7 @@
   <!-- :boom: Puedes visitar [MI SITIO WEB] para conocer más sobre mi trayectoria (Actualiza con tu enlace) -->
 
 
-## <picture><img src="https://github.com/FelipeCarvajalParra/FelipeCarvajalParra/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo.png?raw=true"></picture>
+## <picture><img src="https://github.com/FelipeCarvajalParra/FelipeCarvajalParra/blob/main/Sobre%20mi/1.png?raw=true"></picture>
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
@@ -31,7 +31,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologias que conozco</h2></summary>
+    <summary><picture><img src="https://github.com/FelipeCarvajalParra/FelipeCarvajalParra/blob/main/Sobre%20mi/3.png?raw=true"></picture></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -39,12 +39,12 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,html,css,js,py,django,mysql,vscode,figma" />
   </a>
-</p>
+</p><br>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologias que estoy estudiando</h2></summary>
+     <summary><picture><img src="https://github.com/FelipeCarvajalParra/FelipeCarvajalParra/blob/main/Sobre%20mi/2.png?raw=true"></picture></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -52,18 +52,15 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,react,nodejs,java,spring" />
   </a>
-</p>
+</p><br>
 
 
-# 📊GitHub Stats :
+ <summary><picture><img src="https://github.com/FelipeCarvajalParra/FelipeCarvajalParra/blob/main/Sobre%20mi/5.png?raw=true"></picture></summary>
+
 ![](https://github-readme-stats.vercel.app/api?username=CodeWhiteWeb&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CodeWhiteWeb&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWhiteWeb&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 
 
@@ -73,7 +70,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+     <summary><picture><img src="https://github.com/FelipeCarvajalParra/FelipeCarvajalParra/blob/main/Sobre%20mi/4.png?raw=true"></picture></summary>
   </ul>
 </div>
 
