@@ -8,10 +8,10 @@
 <img src="https://github.com/FelipeCarvajalParra/FelipeCarvajalParra/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo.png?raw=true" style="whidt: 100%;">
 
 
-  
+  <!-- :boom: Puedes visitar [MI SITIO WEB] para conocer más sobre mi trayectoria (Actualiza con tu enlace) -->
 
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+## <picture><img src="https://github.com/FelipeCarvajalParra/FelipeCarvajalParra/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo.png?raw=true"></picture>
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
@@ -19,11 +19,9 @@
 - :trophy: Aspirante a `Desarrollador Fullstack` **y** Futuro `Ingeniero`
 - :technologist: **Actualmente trabajando en** `Desarrollo Frontend y Backend`
 - :earth_americas: Desde `Colombia` **para el mundo**: Mi pasión por la tecnología no tiene fronteras
-<!-- :boom: Puedes visitar [MI SITIO WEB] para conocer más sobre mi trayectoria (Actualiza con tu enlace) -->
 - :rocket: Siempre buscando **nuevas oportunidades** para aprender, crecer y contribuir al mundo tecnológico
 - :nerd_face: Creo firmemente que `"Eres lo que amas"`
 - :coffee: **Amante del café**
-- :email: No dudes en **contactarme** [![Enviarme un Correo](https://img.shields.io/static/v1?label=email&amp;message=TuNombre&amp;color=EA4335&amp;style=flat-square)](mailto:tu.correo@ejemplo.com)
 
 
 <br>
@@ -33,13 +31,26 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Tecnologias que conozco</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,react,nodejs,java,spring,py,django,mysql,vscode,figma" />
+    <img src="https://skillicons.dev/icons?i=github,html,css,js,py,django,mysql,vscode,figma" />
+  </a>
+</p>
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tecnologias que estoy estudiando</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,react,nodejs,java,spring" />
   </a>
 </p>
 
