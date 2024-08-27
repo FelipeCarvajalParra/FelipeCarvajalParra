@@ -55,7 +55,7 @@
   <a href="">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href="">
+  <a href="www.linkedin.com/in/felipe-carvajal-parra">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="">
