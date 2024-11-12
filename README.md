@@ -97,8 +97,7 @@
 <!--profile visit count-->
 
 <div align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=FelipeCarvajalParra&label=Profile%20Views&color=1&pretty=false)](https://visitcount.itsvg.in)
+  [![](https://visitcount.itsvg.in/api?id=felipecarvajalparra&label=Profile%20Views&color=3&icon=5&pretty=false)](https://visitcount.itsvg.in)
 </div>
 
 
