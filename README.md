@@ -97,7 +97,9 @@
 <!--profile visit count-->
 
 <div align="center">
-  [![](https://visitcount.itsvg.in/api?id=felipecarvajalparra&label=Profile%20Views&color=3&icon=5&pretty=false)](https://visitcount.itsvg.in)
+  <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=felipecarvajalparra&label=Profile%20Views&color=3&icon=5&pretty=false" />
+  </a>
 </div>
 
 
