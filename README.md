@@ -4,7 +4,6 @@
 </h3>
 
 <h1 align="center">I'm Felipe Carvajal — Full Stack Software Developer</h1>
----
 
 <h3 align="left">
 I'm a Full Stack Software Developer specialized in designing and developing robust, scalable web systems focused on business process optimization.  
@@ -14,8 +13,6 @@ I have experience in data analysis, automation, and technical requirement gather
 Throughout my career, I’ve reduced internal process times by over 30%, increased team productivity, and enhanced operational traceability through automation and digital transformation.  
 What defines me is a results-driven mindset, a focus on delivering tangible value, and a strong adaptability to new technologies and agile environments.
 </h3>
-
----
 
 - 🎓 **System Engineering Student** at [CUN](https://www.cun.edu.co) — 9th semester  
 - 💻 Professional **Full Stack Developer** with experience in `Frontend` and `Backend`
@@ -28,7 +25,7 @@ What defines me is a results-driven mindset, a focus on delivering tangible valu
 ---
 
 ## 🛠️ My Skills
--------------------
+
 ### Programming languages:
 &emsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
