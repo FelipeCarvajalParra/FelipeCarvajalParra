@@ -4,11 +4,6 @@
 </h3>
 
 <h1 align="center">I'm Felipe Carvajal — Full Stack Software Developer</h1>
-
-<p align="center">
-  <img src="https://github.com/FelipeCarvajalParra/FelipeCarvajalParra/blob/main/Banner.png" alt="Felipe Carvajal Header" width="100%">
-</p>
-
 ---
 
 <h3 align="left">
