@@ -26,29 +26,36 @@ What defines me is a results-driven mindset, a focus on delivering tangible valu
 
 ## 🛠️ My Skills
 
-### Programming languages:
+### Programming Languages:
 &emsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![CSharp](https://img.shields.io/badge/-C%23-000?&logo=.NET)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 
 ### Frameworks and Tools:
 &emsp;
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
-![.NET](https://img.shields.io/badge/-.NET-000?&logo=.NET)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![VSCODE](https://img.shields.io/badge/-VS%20Code-000?&logo=visualstudiocode)
 
 ### Databases:
 &emsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+
+### Additional Skills:
+&emsp;
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-000?&logo=FastAPI)
+![Excel](https://img.shields.io/badge/-Excel%20(Intermediate)-000?&logo=MicrosoftExcel)
+![UI/UX](https://img.shields.io/badge/-UI%2FUX%20Design-000?&logo=Figma)
 
 ---
 
